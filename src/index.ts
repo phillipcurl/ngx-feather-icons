@@ -1,0 +1,1 @@
+export * from './ngx-feather-icons.module';

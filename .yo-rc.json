@@ -1,0 +1,13 @@
+{
+  "generator-angular-library": {
+    "githubUsername": "phillipcurl",
+    "githubRepoName": "ngx-feather-icons",
+    "npmModuleName": "ngx-feather-icons",
+    "moduleGlobal": "ngxFeatherIcons",
+    "ngModuleName": "NgxFeatherIconsModule",
+    "selectorPrefix": "icon",
+    "projectTitle": "ngx-feather-icons",
+    "projectDescription": "",
+    "authorName": "Phillip Curl"
+  }
+}
